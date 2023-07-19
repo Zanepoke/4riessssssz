@@ -54,18 +54,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "𝙑𝙚𝙡𝙙𝙤𝙧𝙖-𝙈𝘿⚡" //namabot kalian
-global.ownername = "𝕯𝖎𝖆𝖇𝖑𝖔 ×፝֟͜×" //nama kalian
+global.botname = "ZanePOKE-𝙈𝘿⚡" //namabot kalian
+global.ownername = "RYZZ ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/diablosoctagram" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@diablosoctagram" //bebas asal jan hapus
 global.myweb2 = "https://s.id/diablosoctagram" //bebas
 global.email = "diablosoctagram@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['60146144525','601137759884'] //premium user
-global.owner = ["60146144525"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "60146144525" // nomor wa kalian
-global.ownernomerr = "60146144525" //nmr wa kalian
+global.premium = ['60146144525','601112508464'] //premium user
+global.owner = ["60146144525','601112508464"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "60146144525','601112508464" // nomor wa kalian
+global.ownernomerr = "60146144525','601112508464" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
